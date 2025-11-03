@@ -1,0 +1,4 @@
+# Requirements for Playwright Python
+
+playwright==1.19.0
+pytest==7.1.2
